@@ -25,7 +25,7 @@ If you wish to dive more deeply into the topics covered this week, feel free to 
 
 * <a href="https://techcommunity.microsoft.com/t5/azure-ai/responsible-machine-learning-with-error-analysis/ba-p/2141774">Error analysis</a>
 
-* <a href="https://neptune.ai/blog/ml-experiment-tracking"Experiment tracking</a>
+* <a href="https://neptune.ai/blog/ml-experiment-tracking">Experiment tracking</a>
 
 Papers
 
