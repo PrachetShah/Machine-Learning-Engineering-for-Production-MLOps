@@ -32,3 +32,16 @@ Papers
 Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., … Anderljung, M. (n.d.). Toward trustworthy AI development: Mechanisms for supporting verifiable claims∗. Retrieved May 7, 2021http://arxiv.org/abs/2004.07213v2
 
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. Retrieved from http://arxiv.org/abs/1912.02292
+
+### Week 3: Data Definition and Baseline
+If you wish to dive more deeply into the topics covered this week, feel free to check out these optional references. You won’t have to read these to complete this week’s practice quizzes.
+
+* <a href="https://csgaobb.github.io/Projects/DLDL.html">Label ambiguity</a>
+
+* <a href="https://cs230.stanford.edu/blog/datapipeline/#best-practices">Data pipelines</a>
+
+* <a href="https://blog.tensorflow.org/2021/01/ml-metadata-version-control-for-ml.html">Data lineage</a>
+
+* <a href="https://cloud.google.com/blog/products/ai-machine-learning/key-requirements-for-an-mlops-foundation">MLOps</a>
+
+Geirhos, R., Janssen, D. H. J., Schutt, H. H., Rauber, J., Bethge, M., & Wichmann, F. A. (n.d.). Comparing deep neural networks against humans: object recognition when the signal gets weaker∗. Retrieved May 7, 2021, from Arxiv.org website: https://arxiv.org/pdf/1706.06969.pdf
