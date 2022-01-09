@@ -1,0 +1,39 @@
+Question 1
+Which factors substantially complicate production machine learning? (Check all that apply)
+
+->Model Retraining driven by declining model performance.
+Correct
+Right choice! 
+
+Model Retraining driven by model improvements
+
+->Labeling through Weak Supervision
+Correct
+Nicely done! 
+
+Ground truth that changes slowly 
+
+Question2
+Direct Labeling is one of the methods used in production ML to label data. About it we can say that: 
+
+->It captures strong label signals
+Correct
+That’s correct!
+
+It can be applied very often in many scenarios
+
+With it, obtained labels don’t adapt quickly to world changes
+
+->It needs to match prediction results with their corresponding original inference request.
+Correct
+That’s right! Feature selection identifies features with predictive power.
+
+3.
+Question 3
+A cardiologist labeling MRI images is a typical example of Direct Labeling.
+
+True
+
+->False
+Correct
+Great job! MRI labeling by a medical specialist is an example of Human Labeling
