@@ -1,0 +1,79 @@
+Question 1
+In ML, data are first-class citizens?
+
+->Yes
+
+No
+
+2.
+Question 2
+A data pipeline is a series of data processing steps such as:
+
+->Data collection
+
+->Data ingestion  ( Data ingestion is the process of absorbing data from different sources and transferring it to a target site where it can be deposited and analyzed.)
+
+Data Analysis
+
+->Data Preparation
+
+
+3.
+Question 3
+Is the Data pipeline vital for the success of the production ML system?
+
+No
+
+->Yes
+
+4.
+Question 4
+What do you apply to maximize predictive signals in your data?
+
+Data formatting
+
+->Feature engineering
+
+Feature selection
+
+Data coverage
+
+5.
+Question 5
+Your training data should reflect the diversity and cultural context of the people who will use it. What can be done to mitigate inherent biases in a given data set?
+
+-> Collect data from equal proportions from different user groups.
+
+Commit to fairness.
+
+Adapt to continuously changing data
+
+Engineer better features
+
+6.
+Question 6
+More often than not,  ML systems can fail the users it serves. In this context, what is representational harm?
+
+->The amplification or negative reflection of certain groups stereotypes.
+
+Making predictions and decisions that preclude certain groups from accessing resources or opportunities.
+
+Giving skewed outputs more frequently for certain groups of users
+
+Inferring prejudicial links between certain demographic traits and user behaviors.
+
+7.
+Question 7
+Accurate labels are necessary to properly train supervised models. Many times, human subjects known as raters perform this labeling effort. What are the main categories of human raters? (check all that apply). 
+
+-> Generalists
+
+->Subject matter experts
+
+->Your users
+
+ Loggers
+
+Aggregator
+
+Classifiers
